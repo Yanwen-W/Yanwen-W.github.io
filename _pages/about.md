@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/fate.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/TeRA.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 TeRA: Rethinking Text-guided Realistic 3D Avatar Generation

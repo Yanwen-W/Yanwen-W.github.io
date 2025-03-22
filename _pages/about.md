@@ -31,19 +31,57 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/fate.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yanwen Wang**, Yiyu Zhuang, Jiawei Zhang, Li Wang, Yifei Zeng, Xun Cao, Xinxin Zuo, Hao Zhu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+In submission to ICCV 2025
+
+[[paper]](/files/TeRA.pdf)
 </div>
+
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/fate.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Head360: Learning a Parametric 3D Full-Head for Free-View Synthesis in 360◦
+
+Yuxiao He, Yiyu Zhuang, **Yanwen Wang**, Yao Yao, Siyu Zhu, Xiaoyu Li, Qi Zhang, Xun Cao, Hao Zhu
+
+ECCV 2024
+
+[[paper]](https://arxiv.org/pdf/2408.00296)[[project paeg]](https://github.com/dinosaur-eg/Head360)
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/3d_head_avatar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Towards Native Generative Model for 3D Head Avatar
+
+Yiyu Zhuang\*, Yuxiao He\*, Jiawei Zhang\*, **Yanwen Wang**, Jiahe Zhu, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
+
+In submission to TPAMI 2024
+
+[[paper]](https://arxiv.org/abs/2410.01226)[[video]](/files/pami_supp_video_fix_x264.mp4)
+</div>
+
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Surfavatar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians
+
+Zijian Wu, Jiawei Zhang, **Yanwen Wang**, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
+
+In submission to ICCV 2025
+
+[[paper]](/files/SurfAvatar.pdf)
+
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

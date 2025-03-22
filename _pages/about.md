@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# 📝 Biography
+# 👤 Biography
 
 
 <!-- {% if site.google_scholar_stats_use_cdn %}

@@ -44,6 +44,20 @@ In submission to ICCV 2025
 </div>
 
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Surfavatar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians
+
+Zijian Wu, Jiawei Zhang, **Yanwen Wang**, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
+
+In submission to ICCV 2025
+
+[[paper]](/files/SurfAvatar.pdf)
+
+</div>
+
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/fate.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -69,19 +83,7 @@ In submission to TPAMI 2024
 [[paper]](https://arxiv.org/abs/2410.01226)[[video]](/files/pami_supp_video_fix_x264.mp4)
 </div>
 
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Surfavatar.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians
-
-Zijian Wu, Jiawei Zhang, **Yanwen Wang**, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
-
-In submission to ICCV 2025
-
-[[paper]](/files/SurfAvatar.pdf)
-
-</div>
 </div>
 
 # 🎖 Honors and Awards

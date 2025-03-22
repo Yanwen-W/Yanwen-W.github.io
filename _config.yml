@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yanwen Wang (王彦文)"
-  avatar           : "images/"
+  avatar           : "images/portrait.jpg"
   bio              : "Master's student at NJU-3DV"
   location         : "Nanjing, China"
   employer         : "Nanjing University"

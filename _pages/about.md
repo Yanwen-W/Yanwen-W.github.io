@@ -58,7 +58,7 @@ In submission to ICCV 2025
 </div>
 
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/head360.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/head360.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Head360: Learning a Parametric 3D Full-Head for Free-View Synthesis in 360◦

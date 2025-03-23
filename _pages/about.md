@@ -89,9 +89,9 @@ In submission to TPAMI 2024
 # 🎖 Honors and Awards
 - *2021.11* National Undergraduate Electronic Design Contest: **National First Prize** (**Top 1.6%**) 
 
-Zhihua Wang\*, Zekun Zhang\*, **Yanwen Wang\***
+  Zhihua Wang\*, Zekun Zhang\*, **Yanwen Wang\***
 
-[[video]](/files/ElectronicDesignContest.mp4)
+  [[video]](/files/ElectronicDesignContest.mp4)
 <!-- <div class='paper-box'><div class='paper-box-image'><div><img src='/images/ElectronicDesignContest.jpg' alt="sym" width="100%"></div></div> -->
 
 - *2024.12* Outstanding Graduate Student of Nanjing University 

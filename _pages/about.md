@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 👤 Biography
-
+My name is Yanwen Wang (王彦文).I'm now a second-year master student in [NJU-3DV Lab - Digital Human Group](http://zhuhao.cc/group/), Nanjing University, supervised by [Prof. Hao Zhu](http://zhuhao.cc/home/) and [Prof. Xun Cao](https://cite.nju.edu.cn/). My current research interests lie in digital avatar, generative model and 3D computer vision. I earned my M.S. in the  College of Information And Communication Engineering from [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2023.
 
 <!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -67,7 +67,7 @@ Yuxiao He, Yiyu Zhuang, **Yanwen Wang**, Yao Yao, Siyu Zhu, Xiaoyu Li, Qi Zhang,
 
 ECCV 2024
 
-[[paper]](https://arxiv.org/pdf/2408.00296)[[project paeg]](https://github.com/dinosaur-eg/Head360)
+[[paper]](https://arxiv.org/pdf/2408.00296)[[project page]](https://github.com/dinosaur-eg/Head360)
 </div>
 
 </div>

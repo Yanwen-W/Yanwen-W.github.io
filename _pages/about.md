@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/TeRA.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/TeRA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
@@ -58,7 +58,7 @@ In submission to ICCV 2025
 </div>
 
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/fate.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/head360.mp4' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Head360: Learning a Parametric 3D Full-Head for Free-View Synthesis in 360◦

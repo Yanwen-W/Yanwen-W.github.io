@@ -87,8 +87,19 @@ In submission to TPAMI 2024
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='/images/ElectronicDesignContest.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- *2021.11* National Undergraduate Electronic Design Contest: **National First Prize** (**Top 1.6%**) 
+
+Zhihua Wang\*, Zekun Zhang\*, **Yanwen Wang\***
+
+[[video]](/files/ElectronicDesignContest.mp4)
+
+</div>
+
+
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

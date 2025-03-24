@@ -38,7 +38,7 @@ TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
 
 **Yanwen Wang**, Yiyu Zhuang, Jiawei Zhang, Li Wang, Yifei Zeng, Xun Cao, Xinxin Zuo, Hao Zhu
 
-In submission to ICCV 2025
+In submission to **ICCV 2025**
 
 [[paper]](/files/TeRA.pdf)
 </div>
@@ -51,7 +51,7 @@ SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians
 
 Zijian Wu, Jiawei Zhang, **Yanwen Wang**, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
 
-In submission to ICCV 2025
+In submission to **ICCV 2025**
 
 [[paper]](/files/SurfAvatar.pdf)
 
@@ -65,7 +65,7 @@ Head360: Learning a Parametric 3D Full-Head for Free-View Synthesis in 360◦
 
 Yuxiao He, Yiyu Zhuang, **Yanwen Wang**, Yao Yao, Siyu Zhu, Xiaoyu Li, Qi Zhang, Xun Cao, Hao Zhu
 
-ECCV 2024
+**ECCV 2024**
 
 [[paper]](https://arxiv.org/pdf/2408.00296)[[project page]](https://github.com/dinosaur-eg/Head360)
 </div>
@@ -78,7 +78,7 @@ Towards Native Generative Model for 3D Head Avatar
 
 Yiyu Zhuang\*, Yuxiao He\*, Jiawei Zhang\*, **Yanwen Wang**, Jiahe Zhu, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
 
-In submission to TPAMI 2024
+In submission to **TPAMI 2024**
 
 [[paper]](https://arxiv.org/abs/2410.01226)[[video]](/files/pami_supp_video_fix_x264.mp4)
 </div>

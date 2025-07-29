@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
 
-**Yanwen Wang**, Yiyu Zhuang, Jiawei Zhang, Li Wang, Yifei Zeng, Xun Cao, Xinxin Zuo, Hao Zhu
+**Yanwen Wang***, Yiyu Zhuang*, Jiawei Zhang, Li Wang, Yifei Zeng, Xun Cao, Xinxin Zuo, Hao Zhu
 
 **ICCV 2025**
 

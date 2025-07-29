@@ -31,19 +31,19 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/TeRA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2025</div><img src='images/TeRA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
 
 **Yanwen Wang**, Yiyu Zhuang, Jiawei Zhang, Li Wang, Yifei Zeng, Xun Cao, Xinxin Zuo, Hao Zhu
 
-In submission to **ICCV 2025**
+**ICCV 2025**
 
 [[paper]](/files/TeRA.pdf)
 </div>
 
-</div>
+<!-- </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Surfavatar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,7 +55,7 @@ In submission to **ICCV 2025**
 
 [[paper]](/files/SurfAvatar.pdf)
 
-</div>
+</div> -->
 
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/head360.gif' alt="sym" width="100%"></div></div>
@@ -78,7 +78,7 @@ Towards Native Generative Model for 3D Head Avatar
 
 Yiyu Zhuang\*, Yuxiao He\*, Jiawei Zhang\*, **Yanwen Wang**, Jiahe Zhu, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
 
-In submission to **TPAMI 2024**
+<!-- In submission to **TPAMI 2024** -->
 
 [[paper]](https://arxiv.org/abs/2410.01226)[[video]](/files/pami_supp_video_fix_x264.mp4)
 </div>

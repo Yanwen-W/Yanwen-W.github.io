@@ -40,7 +40,7 @@ TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
 
 **ICCV 2025**
 
-[[paper]](/files/TeRA.pdf)
+[[paper]](/files/TeRA.pdf)[[project page]](https://yanwen-w.github.io/TeRA-Page/)
 </div>
 
 <!-- </div>

@@ -42,6 +42,9 @@ TeRA: Rethinking Text-guided Realistic 3D Avatar Generation
 
 [[paper]](/files/TeRA.pdf)[[project page]](https://yanwen-w.github.io/TeRA-Page/)
 
+</div>
+
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH ASIA 2025</div><img src='images/sketch2pose.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,7 +55,6 @@ Li Wang, Yiyu Zhuang, **Yanwen Wang**, Xun Cao, Chuan Guo, Xinxin Zuo, Hao Zhu
 **SIGGRAPH Asia 2025**
 
 [[paper]](/files/Sketch2Pose.pdf)
-
 </div>
 
 <!-- </div>
